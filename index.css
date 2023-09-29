@@ -150,6 +150,11 @@ a {
 }
 
 @media (max-width: 600px) {
+
+    #flex-container {
+        width: 100%;
+    }
+    
     #nav {
         font-size: 2.5vw;
         justify-content: space-between;
